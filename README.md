@@ -64,5 +64,3 @@ Please note that web scraping should be performed responsibly and in compliance 
 This project is inspired by the need to gather YouTube channel data efficiently. Special thanks to the developers and contributors of the used libraries and APIs.
 
 ---
-
-Feel free to customize the README file based on your project's specific requirements and add any additional sections or instructions as needed.
