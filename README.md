@@ -22,7 +22,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/youtube-channel-scraper.git
+   git clone https://github.com/officialnyabuto/Youtube-Channel-Scraper.git
    ```
 
 2. Install the required dependencies:
